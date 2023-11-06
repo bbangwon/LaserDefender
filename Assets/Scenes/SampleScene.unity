@@ -347,6 +347,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ee4a1834544d4494983c7143f690758e, type: 2}
   - {fileID: 11400000, guid: 68b4760ea8b522345868097c153ff0d0, type: 2}
   timeBetweenWaves: 0
+  isLooping: 0
 --- !u!1 &1970869158
 GameObject:
   m_ObjectHideFlags: 0
